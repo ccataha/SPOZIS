@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\university\СПОЗИС\1\SPOZIS1lab\SPOZIS1lab\bin\Debug\SPOZIS1lab.exe.config
+C:\Users\User\Desktop\university\СПОЗИС\1\SPOZIS1lab\SPOZIS1lab\bin\Debug\SPOZIS1lab.exe
+C:\Users\User\Desktop\university\СПОЗИС\1\SPOZIS1lab\SPOZIS1lab\bin\Debug\SPOZIS1lab.pdb
+C:\Users\User\Desktop\university\СПОЗИС\1\SPOZIS1lab\SPOZIS1lab\obj\Debug\SPOZIS1lab.csprojAssemblyReference.cache
+C:\Users\User\Desktop\university\СПОЗИС\1\SPOZIS1lab\SPOZIS1lab\obj\Debug\SPOZIS1lab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\university\СПОЗИС\1\SPOZIS1lab\SPOZIS1lab\obj\Debug\SPOZIS1lab.exe
+C:\Users\User\Desktop\university\СПОЗИС\1\SPOZIS1lab\SPOZIS1lab\obj\Debug\SPOZIS1lab.pdb
+F:\SPOZIS-master\SPOZIS-master\SPOZIS1lab\obj\Debug\SPOZIS1lab.csprojAssemblyReference.cache
+F:\SPOZIS-master\SPOZIS-master\SPOZIS1lab\obj\Debug\SPOZIS1lab.csproj.CoreCompileInputs.cache
+F:\SPOZIS-master\SPOZIS-master\SPOZIS1lab\obj\Debug\SPOZIS1lab.exe
+F:\SPOZIS-master\SPOZIS-master\SPOZIS1lab\obj\Debug\SPOZIS1lab.pdb
+F:\SPOZIS-master\SPOZIS-master\SPOZIS1lab\bin\Debug\SPOZIS1lab.exe.config
+F:\SPOZIS-master\SPOZIS-master\SPOZIS1lab\bin\Debug\SPOZIS1lab.exe
+F:\SPOZIS-master\SPOZIS-master\SPOZIS1lab\bin\Debug\SPOZIS1lab.pdb
+F:\SPOZIS-master\SPOZIS-master\SPOZIS1lab\obj\Debug\SPOZIS1lab.csproj.ResolveComReference.cache
