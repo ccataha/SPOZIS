@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\university\СПОЗИС\2\SPOZIS2\App2\bin\Debug\App2.exe.config
+C:\Users\User\Desktop\university\СПОЗИС\2\SPOZIS2\App2\bin\Debug\App2.exe
+C:\Users\User\Desktop\university\СПОЗИС\2\SPOZIS2\App2\bin\Debug\App2.pdb
+C:\Users\User\Desktop\university\СПОЗИС\2\SPOZIS2\App2\obj\Debug\App2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\university\СПОЗИС\2\SPOZIS2\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\university\СПОЗИС\2\SPOZIS2\App2\obj\Debug\App2.exe
+C:\Users\User\Desktop\university\СПОЗИС\2\SPOZIS2\App2\obj\Debug\App2.pdb
+C:\Users\User\Desktop\university\СПОЗИС\git\SPOZIS\2 lab\App2\bin\Debug\App2.exe.config
+C:\Users\User\Desktop\university\СПОЗИС\git\SPOZIS\2 lab\App2\bin\Debug\App2.exe
+C:\Users\User\Desktop\university\СПОЗИС\git\SPOZIS\2 lab\App2\bin\Debug\App2.pdb
+C:\Users\User\Desktop\university\СПОЗИС\git\SPOZIS\2 lab\App2\obj\Debug\App2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\university\СПОЗИС\git\SPOZIS\2 lab\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\university\СПОЗИС\git\SPOZIS\2 lab\App2\obj\Debug\App2.exe
+C:\Users\User\Desktop\university\СПОЗИС\git\SPOZIS\2 lab\App2\obj\Debug\App2.pdb
